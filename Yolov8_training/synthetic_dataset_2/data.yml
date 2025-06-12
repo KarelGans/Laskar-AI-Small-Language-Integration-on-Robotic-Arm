@@ -1,0 +1,10 @@
+path: synthetic_dataset_2
+train: images/train
+val: images/val
+
+names:
+  0: Battery
+  1: Charger
+  2: Hand
+  3: Mouse
+  4: Phone
